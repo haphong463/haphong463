@@ -1,6 +1,6 @@
 # Hello, I'm Hà Thanh Phong! 👋
-
-![haphong463's GitHub stats](https://github-readme-stats.vercel.app/api?username=haphong463&show_icons=true&theme=dracula)
+<img src="https://komarev.com/ghpvc/?username=haphong463&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshi-Saini-0277" />
+<img src="https://github-readme-stats.vercel.app/api?username=haphong463&show_icons=true&theme=dracula)" />
 
 ## 🛠 Skills
 
