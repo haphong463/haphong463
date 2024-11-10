@@ -2,6 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=haphong463&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshi-Saini-0277" />
 <img src="https://github-readme-stats.vercel.app/api?username=haphong463&show_icons=true&theme=dracula)" />
 
+## 🌟 About Me
+Hello! I'm Hà Thanh Phong, a passionate software developer with experience in Java application development. I am always seeking opportunities to learn and apply new technologies to my projects. With a proactive mindset and strong teamwork skills, I aim to contribute positively to exciting and challenging projects.
+
 ## 🛠 Skills
 
 - **Programming Languages:** Java
