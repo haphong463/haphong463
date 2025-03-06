@@ -22,3 +22,12 @@ Hello! I'm Hà Thanh Phong, a passionate software developer with experience in J
 - **Email:** haphong2134@gmail.com
 
 Thank you for visiting my profile!
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://github.com/haphong463/flight-reservation-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haphong463&repo=flight-reservation-management-system&theme=dracula" alt="Repo 1" />
+  </a>
+  <a href="https://github.com/haphong463/job-board-project-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=haphong463&repo=job-board-project-&theme=dracula" alt="Repo 2" />
+  </a>
+</div>
